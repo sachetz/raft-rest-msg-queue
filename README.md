@@ -1,5 +1,7 @@
 # raft-rest-msg-queue
-Raft REST Messaging Queue implemented in Python
+Raft REST Messaging Queue implemented in Python.
+
+Tested and validated with up to 15 nodes with timers of 150-300 ms for the election cycles.
 
 
 ## References
